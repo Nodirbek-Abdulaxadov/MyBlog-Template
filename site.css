@@ -28,6 +28,11 @@ main {
     margin: 1rem;
 }
 
+.button-group a {
+    width: 100px;
+    margin: 1rem;
+}
+
 .custom-card a {
     width: auto;
 }
